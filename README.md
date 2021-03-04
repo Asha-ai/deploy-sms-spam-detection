@@ -12,3 +12,5 @@ then you can see local falsk URL as shown in the below command prompt:
 
 copy and paset the link in the browser - http://127.0.0.1:5000/
 gen we can see html file, but this is running local flask, it need to deploy in heroku later
+![image](https://user-images.githubusercontent.com/66937023/109926809-62199500-7ce9-11eb-8f48-fe006758c20d.png)
+
