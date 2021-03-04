@@ -10,8 +10,8 @@ then you can see local falsk URL as shown in the below command prompt:
 
 ![cmd](https://user-images.githubusercontent.com/66937023/109926235-bd975300-7ce8-11eb-8200-93f2d2fba541.PNG)
 
-copy and paset the link in the browser - http://127.0.0.1:5000/
-gen we can see html file, but this is running local flask, it need to deploy in heroku later
+-- copy and paset the link in the browser - http://127.0.0.1:5000/
+-- here we can see html file, but this is running local flask, it need to deploy in heroku next step
 ![image](https://user-images.githubusercontent.com/66937023/109926809-62199500-7ce9-11eb-8f48-fe006758c20d.png)
 
 configure github and select manual deployment, then Deploy will will get weblink
