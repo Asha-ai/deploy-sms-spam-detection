@@ -1,6 +1,7 @@
 # NLP-Model-Deployment
 deploy sms spam model using Flask and HEROKU
 Deployed link - https://deploy-sms-spam.herokuapp.com/
+Data - https://www.kaggle.com/uciml/sms-spam-collection-dataset
 ### Steps to fallow
 folder consists of app.py, html templates,nlp_model.pkl, transform.pkl, requirements.text
 download the folder into your local path
