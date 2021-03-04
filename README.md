@@ -10,18 +10,15 @@ then you can see local falsk URL as shown in the below command prompt:
 
 ![cmd](https://user-images.githubusercontent.com/66937023/109926235-bd975300-7ce8-11eb-8200-93f2d2fba541.PNG)
 
--- copy and paset the link in the browser - http://127.0.0.1:5000/
--- here we can see html file, but this is running local flask, it need to deploy in heroku next step
-![image](https://user-images.githubusercontent.com/66937023/109926809-62199500-7ce9-11eb-8f48-fe006758c20d.png)
+copy and paset the link in the browser - http://127.0.0.1:5000/
+gen we can see html file, but this is running local flask, it need to deploy in heroku later
 
-configure github and select manual deployment, then Deploy will will get weblink
-![image](https://user-images.githubusercontent.com/66937023/109927954-ee788780-7cea-11eb-95a1-395cc312ef15.png)
+![image](https://user-images.githubusercontent.com/66937023/109927110-bb81c400-7ce9-11eb-80a9-bbb52e3d7f74.png)
 
--- Final weblink after deploying at HEROKU
-![image](https://user-images.githubusercontent.com/66937023/109928493-84141700-7ceb-11eb-850a-3b815c098814.png)
+-- keep this folder in github master branch and create account at heroku
+-- congifure github repository link
 
-*Note - configuring github repo in HEROKU is pretty easy
--- Go a head and deploy all your ML projects 
--- All the best
+![image](https://user-images.githubusercontent.com/66937023/109927575-701be580-7cea-11eb-80b5-75085872c046.png)
 
-
+-- and deploy manually gen we get weblink -  https://deploy-sms-spam.herokuapp.com/
+* Note its easy to configure github repo at HEROKU 
