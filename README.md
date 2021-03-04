@@ -17,8 +17,11 @@ then you can see local falsk URL as shown in the below command prompt:
 configure github and select manual deployment, then Deploy will will get weblink
 ![image](https://user-images.githubusercontent.com/66937023/109927954-ee788780-7cea-11eb-95a1-395cc312ef15.png)
 
+-- Final weblink after deploying at HEROKU
+![image](https://user-images.githubusercontent.com/66937023/109928493-84141700-7ceb-11eb-850a-3b815c098814.png)
+
 *Note - configuring github repo in HEROKU is pretty easy
-Go a head and deploy all your ML projects 
-All the best
-Thanks Krish
+-- Go a head and deploy all your ML projects 
+-- All the best
+--Thanks Krish
 
