@@ -23,5 +23,5 @@ configure github and select manual deployment, then Deploy will will get weblink
 *Note - configuring github repo in HEROKU is pretty easy
 -- Go a head and deploy all your ML projects 
 -- All the best
---Thanks Krish
+
 
