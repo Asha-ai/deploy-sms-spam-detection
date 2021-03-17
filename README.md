@@ -6,6 +6,7 @@ Data - https://www.kaggle.com/uciml/sms-spam-collection-dataset
 folder consists of app.py, html templates,nlp_model.pkl, transform.pkl, requirements.text
 download the folder into your local path
 open command line in the same folder - then tun the command
+
 -- python app.py
 then you can see local falsk URL as shown in the below command prompt:
 
