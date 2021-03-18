@@ -25,3 +25,7 @@ gen we can see html file, but this is running local flask, it need to deploy in 
 
 -- and deploy manually gen we get weblink -  https://deploy-sms-spam.herokuapp.com/
 * Note its easy to configure github repo at HEROKU 
+
+
+
+
